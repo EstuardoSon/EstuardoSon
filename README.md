@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h2> Hi There, I'm Estuardo Son (Esbriel)! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://www.linkedin.com/in/estuardo-son-01a62a318/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -20,8 +20,8 @@ Now, I'm learning cloud services like AWS. I had learned so much from my friends
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    </a>
 
@@ -91,9 +91,9 @@ Now, I'm learning cloud services like AWS. I had learned so much from my friends
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
+  
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
+  
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
   
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
