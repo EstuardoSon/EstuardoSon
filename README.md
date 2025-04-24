@@ -66,13 +66,13 @@ Now, I'm learning cloud services like AWS. I had learned so much from my friends
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
-  <a href="https://www.postgresql.org"><img alt="SQLite" src ="(https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://www.postgresql.org"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   &emsp;
  </p>
   
  ### 👉 Software & Tools
  
-<p>
+<p align="left">
   &emsp;
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
@@ -101,20 +101,3 @@ Now, I'm learning cloud services like AWS. I had learned so much from my friends
 **Happy Coding!** 😊
 
 </div>
-
-<div align="center">
-
-<!--
-**EstuardoSon/EstuardoSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
