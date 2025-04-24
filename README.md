@@ -5,7 +5,7 @@
 </a>
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+  
 <br />
 <br />
 
@@ -13,12 +13,12 @@ I'm a Full Stack Developer, I'm on my last year studying Engineering of Science 
 <br />
 <br />
 
-Now, I'm learning cloud services like AWS. I had learned so much from my friends, teachers and coworkerd. I'm not afraid of taking on new challenges😤.
+Now, I'm learning cloud services like AWS. I had learned so much from my friends, teachers and coworkers. I'm not afraid of taking on new challenges😤.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstuardoSon&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstuardoSon&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Estuardo Son Github Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstuardoSon&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstuardoSon&layout=compact&theme=dark&bg_color=0A0A0A" alt="Estuardo Son Top Languages"/>
 <br />
 <br />
 <br />
