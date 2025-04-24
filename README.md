@@ -10,6 +10,10 @@
 <br />
 
 I'm a Full Stack Developer, I'm on my last year studying Engineering of Science and Systems. I had worked on a lot of projects using different technologies. 
+<br />
+<br />
+
+Now, I'm learning cloud services like AWS. I had learned so much from my friends, teachers and coworkerd. I'm not afraid of taking on new challenges😤.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EstuardoSon&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
 <br />
