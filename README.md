@@ -8,12 +8,14 @@
   
 <br />
 <br />
-
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<p align="left">
 I'm a Full Stack Developer, I'm on my last year studying Engineering of Science and Systems but I also learn in a lot of courses in Udemy, Platzi and CodigoFacilito. I had worked on a lot of projects using different technologies. 
 <br />
 <br />
 
 Now, I'm learning cloud services like AWS. I had learned so much from my friends, teachers and coworkers. I'm not afraid of taking on new challenges😤.
+</p>
 
 ## 🛠️ My Skills
 
