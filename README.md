@@ -8,7 +8,7 @@
   
 <br />
 <br />
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif' alt = 'Working' align='right'/>
 <p align="left">
 I'm a Full Stack Developer, I'm on my last year studying Engineering of Science and Systems but I also learn in a lot of courses in Udemy, Platzi and CodigoFacilito. I had worked on a lot of projects using different technologies. 
 <br />
@@ -21,7 +21,7 @@ Now, I'm learning cloud services like AWS. I had learned so much from my friends
 
 ### 👉 Programming languages
 
-<p align="left"> 
+<p> 
 
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="#"> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -32,7 +32,7 @@ Now, I'm learning cloud services like AWS. I had learned so much from my friends
 </p>
 
 ### 👉 Frontend Development
-<p align="left"> 
+<p> 
   <a href="#"> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   <a href="#"> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
   <a href="https://www.w3.org/html/"> <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -42,7 +42,7 @@ Now, I'm learning cloud services like AWS. I had learned so much from my friends
 </p>
 
 ### 👉 Databases 
-<p align="left">
+<p>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
   <a href="https://www.postgresql.org"><img alt="PostgreSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
@@ -50,7 +50,7 @@ Now, I'm learning cloud services like AWS. I had learned so much from my friends
   
  ### 👉 Software & Tools
  
-<p align="left">
+<p>
   <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
