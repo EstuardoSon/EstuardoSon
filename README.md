@@ -9,7 +9,7 @@
 <br />
 <br />
 
-I'm a Full Stack Developer, I'm on my last year studying Engineering of Science and Systems. I had worked on a lot of projects using different technologies. 
+I'm a Full Stack Developer, I'm on my last year studying Engineering of Science and Systems but I also learn in a lot of courses in Udemy, Platzi and CodigoFacilito. I had worked on a lot of projects using different technologies. 
 <br />
 <br />
 
