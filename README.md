@@ -8,7 +8,7 @@
   
 <br />
 <br />
-<img src = 'https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif' alt = 'Working' align='right'/>
+<img src = 'https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif' alt ='Working' align='right' width="200px"/>
 <p align="left">
 I'm a Full Stack Developer, I'm on my last year studying Engineering of Science and Systems but I also learn in a lot of courses in Udemy, Platzi and CodigoFacilito. I had worked on a lot of projects using different technologies. 
 <br />
